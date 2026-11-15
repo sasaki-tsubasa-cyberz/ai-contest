@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14 11:07",
+  "generatedAt": "2026-11-15 10:38",
   "contests": [
     {
       "name": "The Chroma Awards - Season 2",
@@ -14,20 +14,6 @@
       "source": "公式",
       "status": "まもなく開始",
       "firstSeen": "2026-06-28"
-    },
-    {
-      "name": "AI International Film Festival (Hollywood/monthly)",
-      "organizer": "AI International Film Festival",
-      "region": "米国 (Hollywood) / 国際 (Online, Worldwide)",
-      "category": "AI Films, Hybrid AI Films, Live-Action, Documentary, Animated Films (using AI tools or exploring AI impact)",
-      "start": null,
-      "deadline": "2026-11-14",
-      "prize": "Trophies (winners can order)",
-      "requirement": "Focus on passionate storytelling, AI trends. Short film 40'<, Feature film.",
-      "url": "https://aifilmfest.org/",
-      "source": "Festhome / FilmFreeway / aifilmfest.org",
-      "status": "募集中",
-      "firstSeen": "2026-10-01"
     },
     {
       "name": "太秦歴史AIショートコンテスト2026",
@@ -604,6 +590,20 @@
       "firstSeen": "2026-10-31"
     },
     {
+      "name": "AI FUSION FES 2026 WINTER 動画コンテスト",
+      "organizer": "NEO JAPONISM",
+      "region": "日本",
+      "category": "AI動画",
+      "start": "null",
+      "deadline": "2026-11-23",
+      "prize": "TapNow協賛、先着200名へ条件達成で計9000 Tapiesの制作支援。入選10作品を予定。",
+      "requirement": "和 × 未来 × AI映像",
+      "url": "null",
+      "source": "公式",
+      "status": "締切間近",
+      "firstSeen": "2026-11-15"
+    },
+    {
       "name": "第2回 My Style vintage 生成AIコンテスト 2026",
       "organizer": "株式会社セレ コーポレーション",
       "region": "日本",
@@ -926,6 +926,20 @@
       "firstSeen": "2026-06-25"
     },
     {
+      "name": "HeyGen Video Contest",
+      "organizer": "HeyGen",
+      "region": "国際",
+      "category": "AI動画 (製品広告, ショートストーリー, スキット, 解説動画など)",
+      "start": "2026-11-12",
+      "deadline": "2026-12-01",
+      "prize": "2万ドル以上の賞金とクレジット (9つのカテゴリ)",
+      "requirement": "動画の70%以上がHeyGen Video 1.0のフッテージであること。Xに #HeyGenVideoContest を付けて投稿し、@HeyGenMCPをタグ付け、応募フォームを提出。",
+      "url": "null",
+      "source": "公式",
+      "status": "締切間近",
+      "firstSeen": "2026-11-13"
+    },
+    {
       "name": "AI Filmfest",
       "organizer": "AI Filmfest",
       "region": "国際（スペイン）",
@@ -952,20 +966,6 @@
       "source": "ScreenWeaver",
       "status": "締切間近",
       "firstSeen": "2026-10-08"
-    },
-    {
-      "name": "HeyGen Video Contest",
-      "organizer": "HeyGen",
-      "region": "国際",
-      "category": "AI動画 (製品広告/ショートスキットなど)",
-      "start": "2026-11-13",
-      "deadline": "2026-12-01",
-      "prize": "$20K+ (現金およびクレジット)",
-      "requirement": "HeyGen Video 1.0を通じてAIエージェントで動画を作成し、自由に編集。創造性、技術、ストーリー、Video 1.0の使用状況で審査。",
-      "url": "https://www.heygen.com/mcp",
-      "source": "HeyGen公式サイト",
-      "status": "締切間近",
-      "firstSeen": "2026-11-13"
     },
     {
       "name": "AI Creativity Awards",
@@ -1066,6 +1066,20 @@
       "firstSeen": "2026-10-11"
     },
     {
+      "name": "Artefact AI Film Festival 2026",
+      "organizer": "Artefact with mk2",
+      "region": "国際",
+      "category": "短編映画",
+      "start": "2026-09-02",
+      "deadline": "2026-12-02",
+      "prize": "€10,000 (トップ賞), 審査員賞, 観客賞, AIの最も革新的な使用賞",
+      "requirement": "生成AIで制作された短編映画",
+      "url": "null",
+      "source": "公式",
+      "status": "締切間近",
+      "firstSeen": "2026-08-18"
+    },
+    {
       "name": "Artefact AI Film Festival x mk2",
       "organizer": "Artefact AI Film Festival",
       "region": "国際（パリ）",
@@ -1092,20 +1106,6 @@
       "source": "AI Film Society",
       "status": "締切間近",
       "firstSeen": "2026-08-29"
-    },
-    {
-      "name": "Artefact AI Film Festival 2026",
-      "organizer": "Artefact AI Film Festival x mk2",
-      "region": "国際",
-      "category": "AI映画",
-      "start": "2026-09-02",
-      "deadline": "2026-12-02",
-      "prize": "グランプリ10,000ユーロ + 追加の1,000ユーロ賞品",
-      "requirement": null,
-      "url": null,
-      "source": "PMN Discovery, AI film festival rules",
-      "status": "募集中",
-      "firstSeen": "2026-08-18"
     },
     {
       "name": "Artefact AI Film Festival x mk2 2026",
@@ -1598,6 +1598,20 @@
       "firstSeen": "2026-07-10"
     },
     {
+      "name": "International AI Creator Award 2026",
+      "organizer": "AICU",
+      "region": "国際（授賞式は日本）",
+      "category": "生成AIを用いたクリエイティブ作品 (10分野)",
+      "start": "2025-01-01",
+      "deadline": "2026-12-31",
+      "prize": "null",
+      "requirement": "2025年1月1日〜2026年12月31日の間に公開され、第三者がログインなしで閲覧可能な作品。",
+      "url": "null",
+      "source": "公式",
+      "status": "募集中",
+      "firstSeen": "2026-08-18"
+    },
+    {
       "name": "Berlin AI Film Festival",
       "organizer": "null",
       "region": "国際（ベルリン）",
@@ -1780,20 +1794,6 @@
       "firstSeen": "2026-10-09"
     },
     {
-      "name": "International AI Creator Award 2026",
-      "organizer": "AICU Inc. (AICU Japan K.K.運営)",
-      "region": "日本",
-      "category": "生成AIを用いたクリエイティブ作品全般（10分野）",
-      "start": "2025-01-01",
-      "deadline": "2026-12-31",
-      "prize": null,
-      "requirement": "2025年1月1日〜2026年12月31日までに公開された生成AI作品",
-      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPuWi6_Uj7R4RAqh8PCRS_esGz3YtkSydaeZ2ZPAvDoq-EMzk1WK4URqZI-PBgxsjmjzR00226rFsybZAkup0kDqaJeJtoO1hfsuo50FccrdSRfUYNOQ==",
-      "source": "AICU",
-      "status": "募集中",
-      "firstSeen": "2026-08-18"
-    },
-    {
       "name": "Berlin AI Film Festival 2027",
       "organizer": "Berlin AI Film Festival",
       "region": "ドイツ (Berlin)",
@@ -1965,13 +1965,13 @@
       "name": "Chroma Awards Season 2",
       "organizer": "ElevenLabs",
       "region": "国際",
-      "category": "映画&TV/広告/ミュージックビデオ/ゲーム/舞台裏/学生部門",
+      "category": "映画, ミュージックビデオ, 広告, ゲーム, ビハインド・ザ・シーン",
       "start": "2026-10-19",
       "deadline": "2027-01-07",
-      "prize": "総額$450,000以上の賞金と旅行特典、$1,000,000以上の無料ツール試用",
-      "requirement": "AIツールを使用して制作された作品、2026年2月1日以降に制作されたプロジェクト",
-      "url": "https://chromaawards.com/submit",
-      "source": "公式/ScreenWeaver/ElevenLabs",
+      "prize": "総額45万ドル以上の賞金と旅行特典, 100万ドル以上のプロモーション機会, 学生インターンシップ",
+      "requirement": "2026年2月1日以降に制作されたプロジェクト。少なくとも1つのAIツールを使用。",
+      "url": "null",
+      "source": "公式",
       "status": "募集中",
       "firstSeen": "2026-07-20"
     },
@@ -3209,16 +3209,16 @@
     },
     {
       "name": "AI for Good Film Festival",
-      "organizer": "ITU (AI for Good Global Summit)",
-      "region": "国際（ジュネーブ）",
-      "category": "短編映画",
-      "start": "2027-01-15",
+      "organizer": "AI for Good Global Summit",
+      "region": "国際",
+      "category": "短編映画 (1分〜10分)",
+      "start": "null",
       "deadline": "2027-05-01",
-      "prize": "AI for Good Global Summit 2027への招待、トロフィー、作品公開",
-      "requirement": "AI技術が映画制作の中核要素であること、1〜10分、2026年9月1日〜2027年5月1日完成作品",
-      "url": "https://aiforgood.itu.int/summit/2027/ai-for-good-film-festival/",
-      "source": "公式/AI Film Contests",
-      "status": "まもなく開始",
+      "prize": "null",
+      "requirement": "AI技術が映画制作プロセスの核となること。2026年9月1日〜2027年5月1日までに完成した作品。倫理的な映画制作、適切なライセンス、AI利用の透明性。",
+      "url": "null",
+      "source": "公式",
+      "status": "募集中",
       "firstSeen": "2026-09-28"
     },
     {
